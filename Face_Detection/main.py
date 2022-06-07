@@ -1,3 +1,7 @@
+# Course: Engineering Capstone Project
+# Project: Face mask detection with temperature monitoring
+# Group No.: 2
+
 # import libraries of python OpenCV
 import cv2
 
