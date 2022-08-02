@@ -1,3 +1,12 @@
+# Course: Engineering Capstone Project
+# Project: Face mask detection with temperature monitoring
+# Group No.: 2
+# Name and Student Id: Sejal Chovatiya - 8740076
+#                      Divyesh Korat - 8716950
+#                      Utkarsh Purohit - 8739830
+# Initial Software Creation: For this we have created program to detect faces and eyes from webcam.
+# Reference: https://www.geeksforgeeks.org/opencv-python-program-face-detection/?ref=rp
+
 # import libraries of python OpenCV
 import cv2
 
